@@ -1,7 +1,7 @@
 {
   "name": "rundrill-js",
   "displayName": "RunDrill JavaScript / TypeScript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JavaScript & TypeScript coach — learn to read, trace, and review code (incl. AI-generated), with drills, progress, and mistake memory, inside your AI agent.",
   "author": {
     "name": "RunDrill",
