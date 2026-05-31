@@ -1,0 +1,17 @@
+{
+  "name": "rundrill-js",
+  "version": "0.1.0",
+  "description": "JavaScript & TypeScript coach — learn to read, trace, and review code (incl. AI-generated), with drills, progress, and mistake memory, inside your AI agent.",
+  "author": {
+    "name": "RunDrill",
+    "email": "hello@rundrill.com",
+    "url": "https://rundrill.com"
+  },
+  "homepage": "https://rundrill.com",
+  "license": "CC-BY-NC-ND-4.0",
+  "mcpServers": {
+    "rundrill-js": {
+      "serverURL": "https://mcp.rundrill.com/prog/js"
+    }
+  }
+}

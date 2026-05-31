@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "rundrill-js": {
+      "serverUrl": "https://mcp.rundrill.com/prog/js"
+    }
+  }
+}

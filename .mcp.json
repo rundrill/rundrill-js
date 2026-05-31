@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rundrill-js": {
+      "type": "http",
+      "url": "https://mcp.rundrill.com/prog/js"
+    }
+  }
+}
